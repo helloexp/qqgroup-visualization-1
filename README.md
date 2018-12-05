@@ -1,14 +1,14 @@
 # qqgroup-visualization
 
 ## QQ群关系可视化查询，3D力导向图
-![效果图](https://github.com/gstok/qqgroup-visualization/blob/three/img/1.jpg)
+![效果图](https://github.com/gstok/qqgroup-visualization/blob/master/img/1.jpg)
 
-![效果图](https://github.com/gstok/qqgroup-visualization/blob/three/img/2.jpg)
+![效果图](https://github.com/gstok/qqgroup-visualization/blob/master/img/2.jpg)
 
 ## 新的分支[table](https://github.com/gstok/qqgroup-visualization/tree/table)表格方式查询
 [查询地址](http://123.206.204.118/#/qqtable/10001)
 
-![效果图](https://github.com/gstok/qqgroup-visualization/blob/three/img/t1.jpg)
+![效果图](https://github.com/gstok/qqgroup-visualization/blob/master/img/t1.jpg)
 
 ## *目前项目连接的是我个人的数据库，可直接npm run start运行，如果我的数据库失效，请下载数据库备份文件自己配置数据库（已失效）*
 
