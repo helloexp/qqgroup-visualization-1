@@ -1,13 +1,6 @@
 # qqgroup-visualization
 
 ## QQ群关系可视化查询，3D力导向图
-![效果图](https://github.com/gstok/qqgroup-visualization/blob/master/img/1.jpg)
-
-![效果图](https://github.com/gstok/qqgroup-visualization/blob/master/img/2.jpg)
-
-## 新的分支[table](https://github.com/gstok/qqgroup-visualization/tree/table)表格方式查询
-
-![效果图](https://github.com/gstok/qqgroup-visualization/blob/master/img/t1.jpg)
 
 ## *本项目不提供数据库*
 
@@ -107,7 +100,4 @@ SHA256: C940F4ABB3BB776B323306D0324998E5ED653CD8FB049B47075B531B70AD1C6B
 大小: 152463434 字节 (145 MiB)
 SHA256: 4DE4E3A0D44FDD4CE9D7EF15747C7516FDFBE10C96BEBDE1D5D98CE501BF1936
 ```
-        
-## 联系
-+ QQ群：943928860
-+ 微信号：beijingxuesheng
+
